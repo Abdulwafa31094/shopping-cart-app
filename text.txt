@@ -1,0 +1,13 @@
+using Context API and useReducer hooks
+state management and state hooks
+
+react bootstrap  :- npm install react-bootstrap bootstrap 
+we are using version 4 :- npm install react-bootstrap bootstrap@4.6.0
+
+react icons :- fashoppingcart
+
+faker.js -:  generate massive amount of fake data in browser and node js
+npm i @faker-js/faker
+
+context api 
+useReducer() hook
