@@ -20,7 +20,7 @@ const Header = () => {
     productDispatch,
   } = CartState();
 
-  console.log(cart)
+  //console.log(cart)
 
   return (
     <Navbar bg="dark" variant="dark" style={{ height: 80 }}>
