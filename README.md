@@ -3,14 +3,14 @@
 Demo : https://abdul-shopping-cart.netlify.app/
 
 # What you’ll learn
-Design Shopping Cart Using HTML and CSS
-Implement React Components For Product List, Filter, Cart
-Managing Component State using Redux, React-Redux and - Redux-Thunk
-Creating Animations Using React-Reveal and Add Routes using React-Routers
+1. Design Shopping Cart Using HTML and CSS
+2. Implement React Components For Product List, Filter, Cart
+3. Managing Component State using Redux, React-Redux and - Redux-Thunk
+4. Creating Animations Using React-Reveal and Add Routes using React-Routers
 
 # Are there any course requirements or prerequisites?
-Basic HTML and CSS
-Basic JavaScript
+1. Basic HTML and CSS
+2. Basic JavaScript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
