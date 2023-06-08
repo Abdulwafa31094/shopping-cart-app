@@ -1,4 +1,4 @@
-# Build ECommerce Shopping Cart by React 
+# Shopping Cart Built in React JS with Context API and useReducer
 
 Demo : https://abdul-shopping-cart.netlify.app/
 
